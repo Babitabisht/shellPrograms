@@ -179,7 +179,7 @@ while read -r CURRENT_LINE
        do
               echo "$LINE: $CURRENT_LINE"
               ((LINE++))
-done  <  "./test.html"
+done  <  "./test.txt"
 
 
 #Function without params
