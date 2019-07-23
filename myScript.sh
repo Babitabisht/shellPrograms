@@ -1,5 +1,21 @@
 #! /bin/bash
 
+#
+#
+# Author :
+#	Babita Bisht
+#	babitabisht2018@gmail.com
+#	github.com/babitabisht
+#
+#
+# ====================================================
+#         Please Don't Remove Author name
+# ====================================================
+#
+#
+#	Description:
+#		Description About This Script
+#
 echo hello world !
 
 Name="Babita"
